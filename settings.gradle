@@ -1,0 +1,4 @@
+rootProject.name = 'TheAutomatonProject'
+include 'Senses'
+include 'Terminal'
+
